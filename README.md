@@ -2,6 +2,6 @@
 
 # Mantine [Catalog](https://mantine-catalog.com)
 
-*🗃️ A huge catalog of React components and templates using [Mantine](https://mantine.dev) to build beautiful UIs*
+*🗃️ A huge catalog of React components, templates and themes using [Mantine](https://mantine.dev) to build beautiful UIs*
 
 </div>
