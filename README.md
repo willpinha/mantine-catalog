@@ -1,3 +1,7 @@
-# Mantine Catalog
+<div align="center">
 
-> 🗃️ A huge catalog of React components using Mantine to build beautiful UIs
+# Mantine [Catalog](https://mantine-catalog.com)
+
+*🗃️ A huge catalog of React components and templates using [Mantine](https://mantine.dev) to build beautiful UIs*
+
+</div>
