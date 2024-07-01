@@ -9,9 +9,10 @@
 ## About this catalog
 
 This catalog is an extension of [Mantine UI](https://ui.mantine.dev), offering several new components, as well as templates and color themes.
-
 Mantine gives us a well-established base (colors, spacing, typography, components,...). This catalog brings all of this together, offering
-you inspiration during the development of your front-end. Use this catalog to build your front-end **_faster_** and **_easier_**!
+you inspiration during the development of your front-end.
+
+Use this catalog to build your front-end **_faster_** and **_easier_**!
 
 ## Installation
 
