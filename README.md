@@ -22,8 +22,6 @@ You don't need to install anything other than Mantine. Just copy and paste the s
 > We use [Tabler](https://tabler.io/icons) icons ([the recommended](https://mantine.dev/guides/icons) icon library for Mantine) in components
 > and templates, but you can swap it with any other icon library of your preference
 
-## Features
-
 ## FAQ
 
 ### 1. Why Mantine?
